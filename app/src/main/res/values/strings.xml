@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="loading_str">Loading...</string>
+    <string name="cd_news_list">News list</string>
+    <string name="cd_news_name">News headline</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_edit_source">Edit Source</string>
+</resources>

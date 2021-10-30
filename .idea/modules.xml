@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinRSSReader.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinRSSReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinRSSReader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinRSSReader.app.iml" />
+    </modules>
+  </component>
+</project>
